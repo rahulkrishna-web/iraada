@@ -8,6 +8,7 @@ import {Divider} from "@nextui-org/divider";
 import { Lead } from "@/components/lead"
 import { Approach } from "@/components/approach";
 import { Sessions } from "@/components/sessions";
+import { Faq } from "@/components/faq";
 
 export default function Home() {
   return (
@@ -17,6 +18,8 @@ export default function Home() {
     <Approach />
     <Divider />
     <Sessions />
+    <Divider />
+    <Faq />
     </>
   );
 }
