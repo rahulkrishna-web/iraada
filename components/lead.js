@@ -17,7 +17,7 @@ export const Lead = () =>{
       </div>
 
       <div className="flex gap-3">
-      <Button color="primary" size="lg">
+      <Button color="primary" size="lg" variant="bordered">
         Apply For Alignment
         </Button>
       </div>
