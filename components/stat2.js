@@ -7,7 +7,7 @@ export const Stat2 = () => {
   return (
     <div className='py-12 bg-[#aad7e6]'>
         <div className='container mx-auto'>
-        <div className='grid gap-2 grid-cols-3'>
+        <div className='grid gap-2 grid-cols-3 px-5'>
             <div className='text-center'>
                 <h3 className='text-3xl font-bold'>8+</h3>
                 <h4 className='font-bold'>Workshops</h4>
