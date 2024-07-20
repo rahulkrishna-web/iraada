@@ -20,7 +20,6 @@ export default function Home() {
   return (
     <>
     <Lead />
-    <Divider />
     <Approach />
     <Sessions />
     <Divider />
@@ -30,7 +29,6 @@ export default function Home() {
     <Stat />
     <Pricing />
     <EventOverview />
-    <Divider />
     <Faq />
     </>
   );
