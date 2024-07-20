@@ -16,17 +16,9 @@ export const Lead = () =>{
       </div>
 
       <div className="flex gap-3">
-        <Link
-          isExternal
-          className={buttonStyles({
-            color: "primary",
-            radius: "full",
-            variant: "shadow",
-          })}
-          href={siteConfig.links.docs}
-        >
-          Apply for alignment
-        </Link>
+      <Button color="primary" size="lg">
+        Apply For Alignment
+        </Button>
       </div>
     </section>
   )
