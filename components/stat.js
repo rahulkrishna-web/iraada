@@ -18,7 +18,8 @@ export const Stat = () => {
             </div>
             <div className='text-center'>
                 <h3 className='text-3xl font-bold'>1</h3>
-                <p>Iraada</p>
+                <p className='font-bold'>Iraada</p>
+                <p>to become our best selves</p>
             </div>
         </div>
       </div>
