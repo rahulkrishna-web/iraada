@@ -21,6 +21,36 @@ export const Faq = () =>{
 Delegate fee is Rs 20,000/-
 
       </AccordionItem>
+      <AccordionItem key="4" aria-label="Accordion 4" title="When is the last date to register?">
+      31st July
+      </AccordionItem>
+      <AccordionItem key="5" aria-label="Accordion 5" title="What is the age group for the delegates?">
+      Age Group is 18-36 JITO Youth Wing members only.
+      </AccordionItem>
+      <AccordionItem key="6" aria-label="Accordion 6" title="Is there transportation arranged from Chennai to the Venue?
+">
+      Yes, Shuttles will be arranged from Chennai to the Resort. Information will be passed to the selected participants by the Hospitality team.
+      </AccordionItem>
+      <AccordionItem key="7" aria-label="Accordion 7" title="Are meals and refreshments provided? Will there be pre sunset dinner?
+">
+      Yes, Jain meals will be provided.<br />
+      12th - Lunch, Hi-tea, Dinner<br />
+      13th - Breakfast, Lunch, Dinner, Hi-tea<br />
+      14th -  Breakfast, Lunch<br />
+			Sunset Dinner - Yes?
+      </AccordionItem>
+      <AccordionItem key="8" aria-label="Accordion 8" title="Is there any dresscode for the event?
+">
+      No, wear whatever is comfortable.
+      </AccordionItem>
+      <AccordionItem key="9" aria-label="Accordion 9" title="Whom shall I get in touch for any additional information?
+">
+      Registration team
+      </AccordionItem>
+      <AccordionItem key="10" aria-label="Accordion 10" title="What is the Refund System after registrations? Can I transfer my registration?
+">
+      No Refunds or transfer of tickets.
+      </AccordionItem>
     </Accordion>
       </div>
     </section>

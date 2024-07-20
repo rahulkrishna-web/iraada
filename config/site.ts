@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Next.js + NextUI",
+  name: "Iraada",
   description: "Make beautiful websites regardless of your design experience.",
   navItems: [
     {
@@ -9,7 +9,7 @@ export const siteConfig = {
       href: "/",
     },
     {
-      label: "Approach",
+      label: "Why Iraada",
       href: "#approach",
     },
     {
@@ -17,8 +17,8 @@ export const siteConfig = {
       href: "#faq",
     },
     {
-      label: "Blog",
-      href: "/blog",
+      label: "Pricing",
+      href: "#pricing",
     },
     {
       label: "About",

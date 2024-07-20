@@ -7,13 +7,12 @@ import { GithubIcon } from "@/components/icons";
 
 export const Lead = () =>{
   return(
-    <section className="flex flex-col items-center justify-center gap-4 py-40 md:py-40">
+    <section className="flex flex-col items-center justify-center gap-4 py-40 md:py-40 h-screen">
       <div className="inline-block max-w-lg text-center justify-center">
-        <h1 className={title({ color: "violet" })}>IRAADA</h1>
-        <br />
-        <h2 className={subtitle({ class: "mt-4" })}>
+        <h1 className='text-5xl font-bold text-center text-[#aad7e6]'>IRAADA</h1>
+        <p className='text-xl text-center'>
         Discover, appreciate and propel your iraada
-        </h2>
+        </p>
       </div>
 
       <div className="flex gap-3">
