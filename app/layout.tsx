@@ -46,7 +46,7 @@ export default function RootLayout({
             <main className="flex-grow">
               {children}
             </main>
-            <footer className="w-full flex items-center justify-center py-3">
+            <footer className="w-full flex items-center justify-center py-3 bg-[#aad7e6]">
               <p>&copy; 2024, Iraada</p>
             </footer>
           </div>

@@ -5,9 +5,9 @@ import { FaLightbulb, FaMapMarkerAlt, FaUsers } from 'react-icons/fa';
 
 export const EventOverview = () => {
   return (
-    <div className='py-24 bg-slate-100'>
+    <div className='py-24 bg-[#f1d97a]'>
         <div className='container mx-auto'>
-        <h2 className='text-4xl font-bold text-center mb-12 font-playfair'>Why Iraada now?</h2>
+        <h2 className='text-3xl font-bold text-center mb-12 font-playfair'>Why Iraada now?</h2>
       <div className='grid gap-4 grid-cols-2 md:grid-cols-4 px-5'>
         <div>
           <div className='flex flex-col gap-4 items-center justify-center'>

@@ -6,7 +6,7 @@ export const Faq = () =>{
   return(
     <section id="faq" className="flex flex-col items-center justify-center gap-4 py-24">
       <div className="inline-block max-w-lg text-center justify-center px-5">
-        <h2 className='text-4xl font-bold text-center mb-12 font-playfair'>FAQ</h2>
+        <h2 className='text-3xl font-bold text-center mb-12 font-playfair'>FAQ</h2>
         <Accordion>
       <AccordionItem key="1" aria-label="Accordion 1" title="What is the event about, and why is it called IRAADA?">
       Iraada means intention. This event is to help you pause your everyday life, reflect it with out workshops, Spots, and community with the right Iraada, Intention and to get back to your life and play, but with intentions.
