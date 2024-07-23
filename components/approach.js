@@ -5,7 +5,7 @@ export const Approach = () =>{
   return(
     <section id="approach" className="flex flex-col items-center justify-center gap-4 py-10 bg-slate-100">
       <div className="inline-block max-w-lg text-center justify-center">
-        <h2 className='text-4xl font-bold text-center mb-4'>The Approach</h2>
+        <h2 className='text-4xl font-bold text-center mb-4 font-playfair'>The Approach</h2>
         <p className='text-xl font-bold text-center mb-4'>
         Pause. Reset. Play
         </p>
