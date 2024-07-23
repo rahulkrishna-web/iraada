@@ -8,7 +8,11 @@ module.exports = {
     './node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'playfair': ['Playfair Display', 'serif'],
+      }
+    },
   },
   darkMode: "class",
   plugins: [nextui(
@@ -21,6 +25,10 @@ module.exports = {
               DEFAULT: "#aad7e6",
               foreground: "#000",
             },
+            white: {
+              DEFAULT: "#fff",
+              foreground: "#000",
+            },
             focus: "#aad7e6",
           },
         },
@@ -29,6 +37,10 @@ module.exports = {
             primary: {
               DEFAULT: "#fff",
               foreground: "#000000",
+            },
+            white: {
+              DEFAULT: "#fff",
+              foreground: "#000",
             },
             focus: "#fff",
           },
