@@ -10,11 +10,11 @@ export const Stat = () => {
         <div className='grid gap-2 grid-cols-3'>
             <div className='text-center'>
                 <h3 className='text-3xl font-bold'>120</h3>
-                <p>People / Navigators</p>
+                <p>Navigators</p>
             </div>
             <div className='text-center'>
                 <h3 className='text-3xl font-bold'>10</h3>
-                <p>Facilitators / Guides</p>
+                <p>Guides</p>
             </div>
             <div className='text-center'>
                 <h3 className='text-3xl font-bold'>1</h3>
