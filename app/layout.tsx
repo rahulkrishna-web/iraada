@@ -1,5 +1,6 @@
 import "@/styles/globals.css";
 import { Metadata, Viewport } from "next";
+import localFont from 'next/font/local'
 import { Link } from "@nextui-org/link";
 import clsx from "clsx";
 
@@ -27,13 +28,19 @@ export const viewport: Viewport = {
   ],
 };
 
+const seasons = localFont({
+  src: './theSeasons.woff2',
+  display: 'swap',
+  variable: '--font-seasons',
+})
+
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html suppressHydrationWarning lang="en">
+    <html suppressHydrationWarning lang="en" className={`${seasons.variable}`}>
       <head />
       <body
         className="min-h-screen bg-gradient-custom dark:bg-gray-900 font-poppins antialiased"

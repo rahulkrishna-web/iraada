@@ -6,7 +6,7 @@ export const Sessions = () =>{
   return(
     <section className="flex flex-col items-center justify-center gap-4 py-24 md:py-24 bg-gradient-to-b from-brandBlue">
       <div className="inline-block max-w-lg text-center justify-center">
-      <h2 className='text-3xl font-bold text-center mb-12 font-spectral'>Sessions</h2>
+      <h2 className='text-3xl font-bold text-center mb-12 font-seasons'>Sessions</h2>
         <div>
           <Card className="bg-[#a8ca8f] dark:bg-[#78A083]">
             <CardBody className="flex flex-col gap-2 text-center px-12">

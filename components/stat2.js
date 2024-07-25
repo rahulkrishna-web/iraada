@@ -12,7 +12,7 @@ export const Stat2 = () => {
         <div className='grid gap-2 grid-cols-3 px-5'>
             <div className='text-center'>
                 <h3 className='text-3xl font-bold text-[#a8ca8f]'><CountUp enableScrollSpy start={0} end={8} />+</h3>
-                <h4 className='font-bold text-[#a8ca8f]'>Workshops</h4>
+                <h4 className='font-bold text-[#a8ca8f] font-seasons'>Workshops</h4>
                 <p>Introspection, Design, Action Plan</p>
             </div>
             <div className='text-center'>

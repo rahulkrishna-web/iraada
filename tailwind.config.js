@@ -12,6 +12,7 @@ module.exports = {
       fontFamily: {
         'spectral': ['Spectral', 'serif'],
         'poppins': ['Poppins', 'sans-serif'],
+        'seasons': ['var(--font-seasons)'],
       }
     },
   },

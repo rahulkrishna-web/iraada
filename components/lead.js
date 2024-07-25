@@ -13,7 +13,7 @@ export const Lead = () =>{
     <section className="flex flex-col items-center gap-4 py-24 md:py-24 h-screen bg-brandGreen bg-cover bg-[url('/leadbg.gif')]">
       <div className="max-w-lg text-center flex flex-col items-center justify-center">
         <Image width={250} alt="Iraada" src="/iraada-logo.png" />
-        <p className='text-xl text-center text-[#fff] font-spectral'>
+        <p className='text-xl text-center text-[#fff] font-seasons'>
         Discover, appreciate and propel your iraada
         </p>
       </div>
