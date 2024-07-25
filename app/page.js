@@ -16,6 +16,7 @@ import { Cta } from "../components/cta";
 import { Stat2 } from "../components/stat2";
 import { Feature } from "../components/feature";
 
+
 export default function Home() {
   return (
     <>

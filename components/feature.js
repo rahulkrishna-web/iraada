@@ -7,7 +7,7 @@ export const Feature = () => {
   return (
     <div className='py-24'>
         <div className='container mx-auto'>
-        <h2 className='text-3xl font-bold text-center mb-12 font-playfair'>Tapping into the senses</h2>
+        <h2 className='text-3xl font-bold text-center mb-12 font-spectral'>Tapping into the senses</h2>
       <div className='grid grid-cols-2 md:grid-cols-3 px-5'>
         <div>
             <div className='flex flex-col items-center justify-center'>
