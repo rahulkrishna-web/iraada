@@ -15,7 +15,7 @@ export const Feature = () => {
             alt="nextui logo"
             radius="sm"
             src="/see.gif"
-            height={360}
+            width={360}
             />
             <div className='text-center'>
             <h3 className='font-bold text-2xl text-[#f4dc7a]'>Sight</h3>
@@ -28,7 +28,7 @@ export const Feature = () => {
           alt="nextui logo"
           radius="sm"
           src="/hear.gif"
-          height={360}
+          width={360}
         />
         <div className='text-center'>
         <h3 className='font-bold text-2xl text-[#f17ab6]'>Hear</h3>
@@ -41,7 +41,7 @@ export const Feature = () => {
           alt="nextui logo"
           radius="sm"
           src="/smell.gif"
-          height={360}
+          width={360}
         />
         <h3 className='font-bold text-2xl text-[#a6deed]'>Smell</h3>
         </div>
@@ -52,7 +52,7 @@ export const Feature = () => {
           alt="nextui logo"
           radius="sm"
           src="/touch.gif"
-          height={360}
+          width={360}
         />
         <h3 className='font-bold text-2xl text-[#f68690]'>Touch</h3>
         </div>
@@ -63,7 +63,7 @@ export const Feature = () => {
           alt="nextui logo"
           radius="sm"
           src="/taste.gif"
-          height={360}
+          width={360}
         />
         <h3 className='font-bold text-2xl text-[#bdb7fd]'>Taste</h3>
         </div>
@@ -74,7 +74,7 @@ export const Feature = () => {
           alt="nextui logo"
           radius="sm"
           src="/feel.gif"
-          height={360}
+          width={360}
         />
         <h3 className='font-bold text-2xl text-[#beb7fe]'>Feel</h3>
         </div>
