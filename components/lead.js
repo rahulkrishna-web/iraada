@@ -12,14 +12,14 @@ export const Lead = () =>{
   return(
     <section className="flex flex-col items-center justify-center gap-4 py-40 md:py-40 h-screen bg-[#f1d97a] bg-cover bg-[url('/bg-lead-md.gif')]">
       <div className="max-w-lg text-center flex flex-col items-center justify-center">
-        <Image width={250} alt="Iraada" src="/iraada-logo.png" />
+        <Image width={150} alt="Iraada" src="/iraada-logo.png" />
         <p className='text-xl text-center text-[#fff]'>
         Discover, appreciate and propel your iraada
         </p>
       </div>
 
       <div className="flex gap-3">
-      <Button color="primary" size="lg">
+      <Button color="primary" size="lg" variant="shadow">
         Apply For Alignment
         </Button>
       </div>

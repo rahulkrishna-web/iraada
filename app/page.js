@@ -22,7 +22,6 @@ export default function Home() {
     <Lead />
     <Approach />
     <Sessions />
-    <Divider />
     <Feature />
     <Stat2 />
     <Cta />

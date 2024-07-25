@@ -36,10 +36,7 @@ export default function RootLayout({
     <html suppressHydrationWarning lang="en">
       <head />
       <body
-        className={clsx(
-          "min-h-screen bg-background dark:bg-gray-900 font-sans antialiased",
-          fontSans.variable,
-        )}
+        className="min-h-screen bg-background dark:bg-gray-900 font-oswald antialiased"
       >
         <Providers themeProps={{ attribute: "class", defaultTheme: "light" }}>
           <div className="relative flex flex-col">

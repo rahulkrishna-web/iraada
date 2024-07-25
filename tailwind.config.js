@@ -11,6 +11,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'playfair': ['Playfair Display', 'serif'],
+        'oswald': ['Oswald', 'sans-serif'],
       }
     },
   },
