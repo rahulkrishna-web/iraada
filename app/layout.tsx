@@ -37,16 +37,16 @@ export default function RootLayout({
       <head />
       <body
         className={clsx(
-          "min-h-screen bg-background font-sans antialiased",
+          "min-h-screen bg-background dark:bg-gray-900 font-sans antialiased",
           fontSans.variable,
         )}
       >
-        <Providers themeProps={{ attribute: "class", defaultTheme: "dark" }}>
+        <Providers themeProps={{ attribute: "class", defaultTheme: "light" }}>
           <div className="relative flex flex-col">
             <main className="flex-grow">
               {children}
             </main>
-            <footer className="w-full flex items-center justify-center py-3 bg-[#aad7e6]">
+            <footer className="w-full flex items-center justify-center py-3 bg-[#a8ca8f] dark:bg-[#78A083]">
               <p>&copy; 2024, Iraada</p>
             </footer>
           </div>

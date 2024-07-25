@@ -8,7 +8,7 @@ export const Sessions = () =>{
       <div className="inline-block max-w-lg text-center justify-center">
       <h2 className='text-3xl font-bold text-center mb-12 font-playfair'>Sessions</h2>
         <div>
-          <Card className="bg-[#f1d97a]">
+          <Card className="bg-[#a8ca8f] dark:bg-[#78A083]">
             <CardBody className="flex flex-col gap-2 text-center px-12">
               <div className="flex gap-10">
                 <div className="text-left">
