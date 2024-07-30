@@ -1,14 +1,19 @@
 "use client"
 import { title, subtitle } from "@/components/primitives";
+import { Image } from "@nextui-org/react";
 
 export const Approach = () =>{
   return(
-    <section id="approach" className="flex flex-col items-center justify-center gap-4 py-10 bg-brandBlue">
-      <div className="inline-block max-w-lg text-center justify-center">
-        <h2 className='text-3xl font-bold text-center mb-4 font-seasons'>The Approach</h2>
-        <p className='text-xl font-bold text-center mb-4'>
-        Pause. Reset. Play
+    <section id="approach" className="py-12 bg-[#F7FAF8]">
+      <div className="flex items-center justify-around container gap-4 px-4">
+        <div>
+        <Image radius="none" width={450} alt="Iraada" src="/iraada-section2.png" />
+        </div>
+        <div className="">
+        <p className='text-3xl md:text-5xl font-bold text-[#3c8572]'>
+        PAUSE<br /> RESET<br /> PLAY
         </p>
+        </div>
       </div>
     </section>
   )

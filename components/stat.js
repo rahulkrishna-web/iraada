@@ -10,17 +10,17 @@ export const Stat = () => {
         <div className='container mx-auto'>
         <div className='grid gap-2 grid-cols-3'>
             <div className='text-center'>
-                <h3 className='text-3xl font-bold text-[#a8ca8f]'><CountUp enableScrollSpy start={0} end={120} />
+                <h3 className='text-5xl font-bold text-[#a8ca8f]'><CountUp enableScrollSpy start={0} end={120} />
                 </h3>
-                <p>Navigators</p>
+                <p className='text-2xl font-bold text-[#a8ca8f] font-seasons'>Navigators</p>
             </div>
             <div className='text-center'>
-                <h3 className='text-3xl font-bold text-[#a8ca8f]'><CountUp enableScrollSpy start={0} end={10} /></h3>
-                <p>Guides</p>
+                <h3 className='text-5xl font-bold text-[#a8ca8f]'><CountUp enableScrollSpy start={0} end={10} /></h3>
+                <p className='text-2xl font-bold text-[#a8ca8f] font-seasons'>Guides</p>
             </div>
             <div className='text-center'>
-                <h3 className='text-3xl font-bold text-[#a8ca8f]'>1</h3>
-                <p className='font-bold'>Iraada</p>
+                <h3 className='text-5xl font-bold text-[#a8ca8f]'>1</h3>
+                <p className='text-2xl font-bold text-[#a8ca8f] font-seasons'>Iraada</p>
                 <p>to become our best selves</p>
             </div>
         </div>

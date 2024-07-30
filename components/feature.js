@@ -18,7 +18,7 @@ export const Feature = () => {
             width={360}
             />
             <div className='text-center'>
-            <h3 className='font-bold text-2xl text-[#f4dc7a]'>Sight</h3>
+            <h3 className='font-bold text-2xl text-[#f4dc7a] font-seasons'>Sight</h3>
             </div>
             </div>
         </div>
@@ -31,7 +31,7 @@ export const Feature = () => {
           width={360}
         />
         <div className='text-center'>
-        <h3 className='font-bold text-2xl text-[#f17ab6]'>Hear</h3>
+        <h3 className='font-bold text-2xl text-[#f17ab6] font-seasons'>Hear</h3>
         </div>
         </div>
         </div>
@@ -43,7 +43,7 @@ export const Feature = () => {
           src="/smell.gif"
           width={360}
         />
-        <h3 className='font-bold text-2xl text-[#a6deed]'>Smell</h3>
+        <h3 className='font-bold text-2xl text-[#a6deed] font-seasons'>Smell</h3>
         </div>
         </div>
         <div>
@@ -54,7 +54,7 @@ export const Feature = () => {
           src="/touch.gif"
           width={360}
         />
-        <h3 className='font-bold text-2xl text-[#f68690]'>Touch</h3>
+        <h3 className='font-bold text-2xl text-[#f68690] font-seasons'>Touch</h3>
         </div>
         </div>
         <div>
@@ -65,7 +65,7 @@ export const Feature = () => {
           src="/taste.gif"
           width={360}
         />
-        <h3 className='font-bold text-2xl text-[#bdb7fd]'>Taste</h3>
+        <h3 className='font-bold text-2xl text-[#bdb7fd] font-seasons'>Taste</h3>
         </div>
         </div>
         <div>
@@ -76,7 +76,7 @@ export const Feature = () => {
           src="/feel.gif"
           width={360}
         />
-        <h3 className='font-bold text-2xl text-[#beb7fe]'>Feel</h3>
+        <h3 className='font-bold text-2xl text-[#beb7fe] font-seasons'>Feel</h3>
         </div>
         </div>
       </div>

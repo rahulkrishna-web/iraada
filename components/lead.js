@@ -10,19 +10,8 @@ import { Button, Image } from "@nextui-org/react";
 
 export const Lead = () =>{
   return(
-    <section className="flex flex-col items-center gap-4 py-24 md:py-24 h-screen bg-brandGreen bg-cover bg-[url('/leadbg.gif')]">
-      <div className="max-w-lg text-center flex flex-col items-center justify-center">
-        <Image width={250} alt="Iraada" src="/iraada-logo.png" />
-        <p className='text-xl text-center text-[#fff] font-seasons'>
-        Discover, appreciate and propel your iraada
-        </p>
-      </div>
-
-      <div className="flex gap-3">
-      <Button color="primary" size="lg" variant="shadow">
-        Apply For Alignment
-        </Button>
-      </div>
+    <section className="">
+      <Image radius="none" alt="Iraada" src="/iraada-lead.png" />
     </section>
   )
 }

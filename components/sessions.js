@@ -4,24 +4,10 @@ import { Card, CardBody } from "@nextui-org/react";
 
 export const Sessions = () =>{
   return(
-    <section className="flex flex-col items-center justify-center gap-4 py-24 md:py-24 bg-gradient-to-b from-brandBlue">
-      <div className="inline-block max-w-lg text-center justify-center">
-      <h2 className='text-3xl font-bold text-center mb-12 font-seasons'>Sessions</h2>
-        <div>
-          <Card className="bg-[#a8ca8f] dark:bg-[#78A083]">
-            <CardBody className="flex flex-col gap-2 text-center px-12">
-              <div className="flex gap-10">
-                <div className="text-left">
-                <h2 className="text-xl font-bold">Sep 12-14</h2>
-                <p>Thu-Sat</p>
-                </div>
-                <div>
-                <h2 className="text-xl font-bold">Pondicherry</h2>
-                </div>
-              </div>
-</CardBody>
-        </Card>
-        </div>
+    <section className="flex flex-col gap-4 pt-12 pb-48 md:pt-64 md:pb-96 bg-[url('/iraada-workshop2.png')] bg-cover">
+      <div className="container px-12 md:px-24 text-[#3c8572]">
+      <h2 className='text-2xl md:text-5xl font-bold font-seasons'>Pondicherry</h2>
+      <p className="text-xl font-bold">12-14 Sep, 2024</p>
       </div>
     </section>
   )
