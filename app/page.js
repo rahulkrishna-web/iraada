@@ -16,6 +16,7 @@ import { Cta } from "../components/cta";
 import { Stat2 } from "../components/stat2";
 import { Feature } from "../components/feature";
 import { WhyIraada } from "../components/whyIraada";
+import { WhoFor } from "../components/whoFor";
 
 
 export default function Home() {
@@ -24,6 +25,7 @@ export default function Home() {
     <Lead />
     <Approach />
     <Sessions />
+    <WhoFor />
     <WhyIraada />
     <Feature />
     <Stat2 />
