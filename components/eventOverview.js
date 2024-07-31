@@ -13,10 +13,8 @@ export const EventOverview = () => {
           <div className='flex flex-col gap-4 items-center justify-center'>
         <Image
             alt="nextui logo"
-            height={80}
             radius="sm"
-            src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-            width={80}
+            src="/growth.png"
           />
           <div className='text-center'>
           <h3>Holistic growth</h3>
@@ -28,10 +26,8 @@ export const EventOverview = () => {
         <div className='flex flex-col gap-4 items-center justify-center'>
       <Image
           alt="nextui logo"
-          height={80}
           radius="sm"
-          src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={80}
+          src="/leading.png"
         />
         <div className='text-center'>
         <h3>Leading with Intention</h3>
@@ -43,10 +39,8 @@ export const EventOverview = () => {
         <div className='flex flex-col gap-4 text-center items-center justify-center'>
       <Image
           alt="nextui logo"
-          height={80}
           radius="sm"
-          src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={80}
+          src="/intention.jpeg"
         />
         <h3>Practicing the Purpose</h3>
         </div>
@@ -55,10 +49,8 @@ export const EventOverview = () => {
         <div className='flex flex-col gap-4 items-center justify-center text-center'>
       <Image
           alt="nextui logo"
-          height={80}
           radius="sm"
-          src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={80}
+          src="/joy.png"
         />
         <h3>Nurturing joy in the Collective</h3>
         </div>
