@@ -12,7 +12,8 @@ export const Lead = () =>{
   return(
     <section className="">
       <div>
-      <Image className="w-screen" radius="none" alt="Iraada" src="/leadbg.png" />
+      <Image className="w-screen md:hidden" radius="none" alt="Iraada" src="/banner-sm.png" />
+      <Image className="w-screen hidden md:block" radius="none" alt="Iraada" src="/banner-md.png" />
       </div>
     </section>
   )
