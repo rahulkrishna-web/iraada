@@ -10,7 +10,7 @@ export const Cta = () => {
         <div className='container mx-auto'>
         <div className='text-center'>
         <Button color="primary" size="lg" className='mb-24'>
-        Apply For Alignment
+        Request for invite
         </Button>
         </div>
         <div className='grid gap-10 grid-cols-2 md:grid-cols-4 px-5'>

@@ -17,7 +17,7 @@ export const Stat2 = () => {
                   </div>
                 </div>
                 <h4 className='text-2xl font-bold text-[#216A5A] font-seasons'>Workshops</h4>
-                <p className='text-[#a8ca8f]'>Introspection, Design, Action Plan</p>
+                <p className='text-[#216A5A]'>Introspection, Design, Action Plan</p>
             </div>
             <div className='text-center flex flex-col gap-2 justify-center items-center mb-5'>
               <div className='text-5xl font-bold text-[#a8ca8f] bg-[#E268F2] w-24 h-24 rounded-full flex items-center justify-center'>
@@ -26,7 +26,7 @@ export const Stat2 = () => {
                   </div>
                 </div>
                 <h4 className='text-2xl font-bold text-[#216A5A] font-seasons'>Spots</h4>
-                <p className='text-[#a8ca8f]'>to pause, reflect, play and laugh (at oneself also)</p>
+                <p className='text-[#216A5A]'>to pause, reflect, play and laugh (at oneself also)</p>
             </div>
             <div className='text-center flex flex-col gap-2 justify-center items-center mb-5'>
             <div className='text-5xl font-bold text-[#a8ca8f] bg-[#E268F2] w-24 h-24 rounded-full flex items-center justify-center'>
@@ -35,7 +35,7 @@ export const Stat2 = () => {
                   </div>
                 </div>
                 <h4 className='text-2xl font-bold text-[#216A5A] font-seasons'>Community</h4>
-                <p className='text-[#a8ca8f]'>of growth & support</p>
+                <p className='text-[#216A5A]'>of growth & support</p>
             </div>
         </div>
       </div>
