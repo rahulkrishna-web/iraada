@@ -5,7 +5,7 @@ import { FaLightbulb, FaMapMarkerAlt, FaUsers } from 'react-icons/fa';
 
 export const Feature = () => {
   return (
-    <div className='py-24 bg-[#F7FAF8]'>
+    <div className='py-24 bg-[#F7FAF8] text-[#3c8572]'>
         <div className='container mx-auto'>
         <h2 className='text-3xl font-bold text-center mb-12 font-seasons'>Tapping into the senses</h2>
       <div className='grid grid-cols-2 md:grid-cols-3 px-5'>

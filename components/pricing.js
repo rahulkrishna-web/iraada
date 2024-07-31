@@ -5,7 +5,7 @@ import { FaLightbulb, FaMapMarkerAlt, FaUsers } from 'react-icons/fa';
 
 export const Pricing = () => {
   return (
-    <div className='py-24 bg-[#F7FAF8]'>
+    <div className='py-24 bg-[#F7FAF8] text-[#3c8572]'>
         <div className='container mx-auto'>
         <h2 className='text-3xl font-bold text-center mb-4 font-seasons'>Paisa Kitna Lagenga?</h2>
         <p className='px-5 md:max-w-2xl	md:mx-auto'>
