@@ -11,7 +11,9 @@ import { Button, Image } from "@nextui-org/react";
 export const Lead = () =>{
   return(
     <section className="">
-      <Image radius="none" alt="Iraada" src="/iraada-lead.png" />
+      <div>
+      <Image className="w-screen" radius="none" alt="Iraada" src="/leadbg.png" />
+      </div>
     </section>
   )
 }
