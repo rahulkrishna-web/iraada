@@ -5,7 +5,7 @@ import { Image } from "@nextui-org/react";
 export const Approach = () =>{
   return(
     <section id="approach" className="py-12 bg-[#F7FAF8]">
-      <div className="flex items-center justify-around container gap-4 px-4">
+      <div className="flex items-center justify-around container gap-4 px-12">
         <div>
         <Image radius="none" width={450} alt="Iraada" src="/iraada-section2.png" />
         </div>

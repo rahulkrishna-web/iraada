@@ -6,7 +6,7 @@ import { FaMagnifyingGlass, FaTicket, FaWallet } from 'react-icons/fa6';
 
 export const Cta = () => {
   return (
-    <div className='py-24'>
+    <div className='py-24 bg-[#F7FAF8]'>
         <div className='container mx-auto'>
         <div className='text-center'>
         <Button color="primary" size="lg" className='mb-24'>
