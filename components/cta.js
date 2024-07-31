@@ -8,8 +8,8 @@ export const Cta = () => {
   return (
     <div className='py-24 bg-[#F7FAF8]'>
         <div className='container mx-auto'>
-        <div className='text-center'>
-        <Button color="primary" size="lg" className='mb-24'>
+        <div className='text-center fixed bottom-0 left-0 z-30 flex justify-center items-center w-full py-2 bg-white/30 backdrop-blur-sm'>
+        <Button color="primary" size="lg" className='mx-auto'>
         Request for invite
         </Button>
         </div>
