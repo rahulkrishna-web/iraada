@@ -22,11 +22,11 @@ export const Stat2 = () => {
             <div className='text-center flex flex-col gap-2 justify-center items-center mb-5'>
               <div className='text-5xl font-bold text-[#a8ca8f] bg-[#E268F2] w-24 h-24 rounded-full flex items-center justify-center'>
                   <div className='text-[#ffffff]'>
-                  <CountUp enableScrollSpy start={0} end={4} />+
+                  <CountUp enableScrollSpy start={0} end={15} />
                   </div>
                 </div>
-                <h4 className='text-2xl font-bold text-[#216A5A] font-seasons'>Spots</h4>
-                <p className='text-[#216A5A]'>to pause, reflect, play and laugh (at oneself also)</p>
+                <h4 className='text-2xl font-bold text-[#216A5A] font-seasons'>Experiences</h4>
+                <p className='text-[#216A5A]'>to pause, reflect, play and laugh< br /> (at oneself also)</p>
             </div>
             <div className='text-center flex flex-col gap-2 justify-center items-center mb-5'>
             <div className='text-5xl font-bold text-[#a8ca8f] bg-[#E268F2] w-24 h-24 rounded-full flex items-center justify-center'>

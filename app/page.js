@@ -17,12 +17,13 @@ import { Stat2 } from "../components/stat2";
 import { Feature } from "../components/feature";
 import { WhyIraada } from "../components/whyIraada";
 import { WhoFor } from "../components/whoFor";
+import { LeadVideo } from "../components/lead-video";
 
 
 export default function Home() {
   return (
     <>
-    <Lead />
+    <LeadVideo />
     <Approach />
     <Sessions />
     <WhoFor />

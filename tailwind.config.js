@@ -36,7 +36,7 @@ module.exports = {
               light: '#d7efd7',
             },
             customBlue: {
-              light: '#e4f4f5',
+              light: '#3c8572',
             },
             brandBlue: "#bddde5",
             brandGreen: "#acce94",

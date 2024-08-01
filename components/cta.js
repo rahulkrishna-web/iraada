@@ -13,6 +13,7 @@ export const Cta = () => {
         Request for invite
         </Button>
         </div>
+        <h2 className='text-3xl font-bold text-center mb-12 font-seasons'>Registration Process</h2>
         <div className='grid gap-10 grid-cols-1 md:grid-cols-3 px-5'>
             <div className='text-center flex flex-col gap-4 items-center'>
                 <Image width={200} radius="none" alt="Iraada" src="/iraada-cta-1.png" />
