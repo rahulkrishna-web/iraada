@@ -6,7 +6,7 @@ export default function See() {
 
   return (
     <>
-      <button onClick={onOpen} className="flex flex-col items-center">
+      <button onClick={onOpen} className="flex flex-col items-center mx-auto">
       <Image
           alt="nextui logo"
           radius="sm"
