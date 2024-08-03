@@ -6,7 +6,7 @@ export default function Hear() {
 
   return (
     <>
-      <div onClick={onOpen} className="flex flex-col items-center">
+      <button onClick={onOpen} className="flex flex-col items-center">
       <Image
           alt="nextui logo"
           radius="sm"
@@ -16,7 +16,7 @@ export default function Hear() {
         <div className='text-center'>
         <h3 className='font-bold text-2xl font-seasons'>Hear</h3>
         </div>
-      </div>
+      </button>
       <Modal className="bg-[#98c08e] text-white" isOpen={isOpen} placement="center" onOpenChange={onOpenChange}>
         <ModalContent>
           {(onClose) => (
