@@ -15,7 +15,7 @@ export const LeadVideo = () =>{
       <source src="/banner-desktop.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
-    <video className="w-full md:hidden" width="320" height="240" controls>
+    <video className="w-full md:hidden" width="320" height="240" controls={true}>
       <source src="/banner-mobile.mp4" type="video/mp4" />
       Your browser does not support the video tag.
     </video>
