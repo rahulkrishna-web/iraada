@@ -23,7 +23,7 @@ import { LeadVideo } from "../components/lead-video";
 export default function Home() {
   return (
     <>
-    <Lead />
+    <LeadVideo />
     <Approach />
     <Sessions />
     <WhoFor />
