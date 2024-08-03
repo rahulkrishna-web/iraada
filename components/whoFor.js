@@ -12,7 +12,7 @@ export const WhoFor = () => {
             <div className=''>
                 <Image className='md:max-w-md' src='/who-for.png' alt='who for' />
             </div>
-            <div className='bg-[#4f8373] px-20 py-20 w-full'>
+            <div className='bg-[#3b8672] px-20 py-20 w-full'>
             <h3 className='text-3xl font-bold text-center text-white mb-2'>People of all genders </h3>
             <p className='md:max-w-md  text-center mx-auto text-white'>who want to become their better selves, lead with more clarity, build mental & emotional strength and grow into confident decision makers.
 

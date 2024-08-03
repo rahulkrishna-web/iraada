@@ -5,7 +5,7 @@ import { FaLightbulb, FaMapMarkerAlt, FaUsers } from 'react-icons/fa';
 
 export const WhyIraada = () => {
   return (
-    <div className='py-24 text-white bg-[#4f8373]'>
+    <div className='py-24 text-white bg-[#3b8672]'>
         <div className='container mx-auto'>
         <h2 className='text-3xl text-center font-bold px-5 md:max-w-2xl md:mx-auto mb-4 font-seasons text-[#fff]'>Why Iraada is for you?</h2>
         <p className='px-5 md:max-w-lg text-bold	md:mx-auto text-center text-[#fff]' >
