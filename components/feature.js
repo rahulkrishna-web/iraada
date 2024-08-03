@@ -14,7 +14,7 @@ export const Feature = () => {
         <Image
             alt="nextui logo"
             radius="sm"
-            src="/see.gif"
+            src="/see.webp"
             width={360}
             />
             <div className='text-center'>
@@ -27,7 +27,7 @@ export const Feature = () => {
       <Image
           alt="nextui logo"
           radius="sm"
-          src="/hear.gif"
+          src="/hear.webp"
           width={360}
         />
         <div className='text-center'>
@@ -40,7 +40,7 @@ export const Feature = () => {
       <Image
           alt="nextui logo"
           radius="sm"
-          src="/smell.gif"
+          src="/smell.webp"
           width={360}
         />
         <h3 className='font-bold text-2xl font-seasons'>Smell</h3>
@@ -51,7 +51,7 @@ export const Feature = () => {
       <Image
           alt="nextui logo"
           radius="sm"
-          src="/touch.gif"
+          src="/touch.webp"
           width={360}
         />
         <h3 className='font-bold text-2xl font-seasons'>Touch</h3>
@@ -62,7 +62,7 @@ export const Feature = () => {
       <Image
           alt="nextui logo"
           radius="sm"
-          src="/taste.gif"
+          src="/taste.webp"
           width={360}
         />
         <h3 className='font-bold text-2xl font-seasons'>Taste</h3>
@@ -73,7 +73,7 @@ export const Feature = () => {
       <Image
           alt="nextui logo"
           radius="sm"
-          src="/feel.gif"
+          src="/feel.webp"
           width={360}
         />
         <h3 className='font-bold text-2xl font-seasons'>Feel</h3>
