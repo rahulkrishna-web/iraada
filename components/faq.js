@@ -15,7 +15,7 @@ export const Faq = () =>{
       </AccordionItem>
       <AccordionItem key="2" aria-label="Accordion 2" title="When and Where is the event taking place?">
       <p className="text-left">
-      The festical will take place from September 12th to 14th, 2024 (Thursday to Saturday) at the K Resort in Pondicherry.
+      The festival will take place from September 12th to 14th, 2024 (Thursday to Saturday) at the K Resort in Pondicherry.
       </p>
       </AccordionItem>
       <AccordionItem key="3" aria-label="Accordion 3" title="What is the registration procedure and how much is the fee?">

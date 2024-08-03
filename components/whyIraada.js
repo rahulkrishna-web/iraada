@@ -5,10 +5,10 @@ import { FaLightbulb, FaMapMarkerAlt, FaUsers } from 'react-icons/fa';
 
 export const WhyIraada = () => {
   return (
-    <div className='py-24 text-white bg-gradient-to-b from-[#a3e296]'>
+    <div className='py-24 text-white bg-[#436f52]'>
         <div className='container mx-auto'>
-        <h2 className='text-5xl text-center font-bold px-5 md:max-w-2xl md:mx-auto mb-4 font-seasons text-[#436f52]'>Why Iraada is for you?</h2>
-        <p className='px-5 md:max-w-md text-bold	md:mx-auto text-center text-[#436f52]' >
+        <h2 className='text-5xl text-center font-bold px-5 md:max-w-2xl md:mx-auto mb-4 font-seasons text-[#fff]'>Why Iraada is for you?</h2>
+        <p className='px-5 md:max-w-lg text-xl text-bold	md:mx-auto text-center text-[#fff]' >
         Struggling to juggle multiple roles—
 creator, entrepreneur, side hustler,
 or explorer—and still seeking your
