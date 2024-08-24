@@ -13,7 +13,7 @@ export const Feature = () => {
         <Image width={300} className="" radius="none" fill alt="Iraada" src="iraada-kya-h.png" />
         <p className='text-[#fef5b6] text-2xl px-5 md:max-w-2xl	md:mx-auto text-center'>
         With iraada we aim to tap into the <br />
-        <span class="text-[#f7faf8] font-bold">Power of intention</span><br />
+        <span className="text-[#f7faf8] font-bold">Power of intention</span><br />
         by exploring through our senses
         </p>
       <div className='flex flex-wrap px-5 justify-center'>

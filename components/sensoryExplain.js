@@ -9,9 +9,9 @@ export const SensoryExplain = () => {
         <div className='container flex items-center	justify-items-center h-dvh'>
         <p className='text-2xl px-5 md:max-w-lg	md:mx-auto text-center bg-white py-14 px-14'>
         The sensory exploration is designed to spark <br />
-        <span class="text-[#e368f4] font-bold">Creative problem solving</span><br />
+        <span className="text-[#e368f4] font-bold">Creative problem solving</span><br />
         ( Personal & Professional ) & <br />
-        <span class="text-[#eb8564] font-bold">Blue - sky Thinking</span>
+        <span className="text-[#eb8564] font-bold">Blue - sky Thinking</span>
         </p>
       </div>
     </div>
