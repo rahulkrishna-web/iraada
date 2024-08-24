@@ -11,10 +11,10 @@ export default function Touch() {
           alt="nextui logo"
           radius="sm"
           src="/touch.webp"
-          width={360}
+          width={240}
         />
         <div className='text-center'>
-        <h3 className='font-bold text-2xl font-seasons'>Touch</h3>
+        <h3 className='font-bold text-2xl font-seasons text-[#f7faf8]'>Touch</h3>
         </div>
       </button>
       <Modal className="bg-[#98c08e] text-white" isOpen={isOpen} placement="center" onOpenChange={onOpenChange}>

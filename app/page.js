@@ -18,6 +18,7 @@ import { Feature } from "../components/feature";
 import { WhyIraada } from "../components/whyIraada";
 import { WhoFor } from "../components/whoFor";
 import { LeadVideo } from "../components/lead-video";
+import { SensoryExplain } from "../components/sensoryExplain";
 
 
 export default function Home() {
@@ -25,14 +26,16 @@ export default function Home() {
     <>
     <Lead />
     <Approach />
-    <Sessions />
-    <WhoFor />
-    <WhyIraada />
     <Feature />
+    <SensoryExplain />
+    <WhoFor />
+    <Sessions />
+    <Pricing />
+    <WhyIraada />
     <Stat2 />
     <Cta />
     <Stat />
-    <Pricing />
+    
     <EventOverview />
     <Faq />
     </>
