@@ -23,8 +23,8 @@ export const Faq = () =>{
       Step 1: Request for an invite.<br />
 Step 2: Login, complete the application form, and submit it.<br />
 Step 3: Our team will review your application and get in touch with you.<br />
-Step 4: If accepted, you will be offered a seat at the Iraada festival. Payment of the delegate fee (Rs 15,999) must be made within 24 hours to reserve your seat.<br /><br />
-Delegate fee is Rs 15,999/-
+Step 4: If accepted, you will be offered a seat at the Iraada festival. Payment of the delegate fee (Rs 9,999) must be made within 24 hours to reserve your seat.<br /><br />
+Delegate fee is Rs 9,999/-
 
     </p>
       </AccordionItem>
