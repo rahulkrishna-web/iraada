@@ -19,6 +19,8 @@ import { WhyIraada } from "../components/whyIraada";
 import { WhoFor } from "../components/whoFor";
 import { LeadVideo } from "../components/lead-video";
 import { SensoryExplain } from "../components/sensoryExplain";
+import { Days } from "../components/days";
+import { Sponsors } from "../components/sponsors";
 
 
 export default function Home() {
@@ -28,6 +30,8 @@ export default function Home() {
     <Approach />
     <Feature />
     <SensoryExplain />
+    <Days />
+    <Sponsors />
     <WhoFor />
     <Sessions />
     <Pricing />
