@@ -63,13 +63,15 @@ export const Days = () =>{
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="flex justify-between items-center">
                 <h3 className="w-max h-max pl-24 py-5 pr-5 bg-[#ffc618] text-white uppercase text-bold text-xl md:text-4xl w-fit">Day 2</h3>
-                <Image className="md:hidden" src="/ic-hd-r1.png" />
+                <div className="block md:hidden">
+                    <Image className="" src="/ic-hd-r1.png" />
+                </div>
                 </div>
             <div className="flex flex-col justify-center align-center text-center py-5">
                 <p className="text-4xl text-[#ffc618]">Working on</p>
                 <h4 className="text-6xl text-[#ea8463] text-bold">RESET</h4>
             </div>
-            <div className="flex justify-end hidden md:block">
+            <div className="flex justify-end hidden md:flex">
                 <Image className="" src="/ic-hd-r1.png" />
             </div>
         </div>
