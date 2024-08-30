@@ -16,7 +16,7 @@ export const Days = () =>{
             </div>
             <div className="flex justify-center"><p className="bg-[#fef5b6] w-fit p-3 rounded-lg">⏰ : 60 to 90<br /> minutes per <br />session</p></div>
         </div>
-        <div className="subSectionBody py-5">
+        <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
                 <div className="basis-1/3 pb-4 flex flex-col items-center">
                     <Image src="/day1_ic1.png" />
@@ -75,7 +75,7 @@ export const Days = () =>{
                 <Image className="" src="/ic-hd-r1.png" />
             </div>
         </div>
-        <div className="subSectionBody py-5">
+        <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
                 <div className="basis-1/3 pb-4 flex flex-col items-center">
                     <Image src="/d2-i1.png" />
@@ -131,7 +131,7 @@ export const Days = () =>{
                 <h3 className="pl-24 py-5 pr-5 bg-[#e368f3] text-white uppercase text-bold text-xl md:text-4xl w-fit">Afternoon</h3>
                 </div>
         </div>
-        <div className="subSectionBody py-5">
+        <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
                 <div className="basis-1/3 pb-4 flex flex-col items-center">
                     <Image src="/d2-ia1.png" />
@@ -163,7 +163,7 @@ export const Days = () =>{
                 <h3 className="pl-24 py-5 pr-5 bg-[#ffc618] text-white uppercase text-bold text-xl md:text-4xl w-fit">Evening</h3>
                 </div>
         </div>
-        <div className="subSectionBody py-5">
+        <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
                 <div className="basis-1/3 pb-4 flex flex-col items-center">
                     <Image src="/d2-ie1.png" />
@@ -187,7 +187,7 @@ export const Days = () =>{
                 <h3 className="pl-24 py-5 pr-5 bg-[#3d8672] text-white uppercase text-bold text-xl md:text-4xl w-fit">Night</h3>
                 </div>
         </div>
-        <div className="subSectionBody py-5">
+        <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
                 <div className="basis-1/3 pb-4 flex flex-col items-center">
                     <Image src="/d2-in1.png" />
@@ -213,7 +213,7 @@ export const Days = () =>{
                 <h4 className="text-6xl text-[#ffc618] text-bold">FIELD</h4>
             </div>
         </div>
-        <div className="subSectionBody py-5">
+        <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
                 <div className="basis-1/3 pb-4 flex flex-col items-center">
                     <Image src="/d3-i1.png" />
