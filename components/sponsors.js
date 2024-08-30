@@ -10,7 +10,7 @@ export const Sponsors = () =>{
         <p className="text-3xl text-center text-[#ea8463] uppercase">to our esteemed sponsors</p>
       </div>
       <div className="flex justify-center py-12">
-        <h3 className="w-max text-3xl bg-[#3d8672] text-white p-3">PRESENTING SPONSOR</h3>
+        <h3 className="w-max text-3xl bg-[#3d8672] text-white p-3 text-center">PRESENTING SPONSOR</h3>
       </div>
       <div className="flex justify-center">
         <Image src="/refex.png" />
