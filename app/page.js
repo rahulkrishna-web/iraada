@@ -21,6 +21,7 @@ import { LeadVideo } from "../components/lead-video";
 import { SensoryExplain } from "../components/sensoryExplain";
 import { Days } from "../components/days";
 import { Sponsors } from "../components/sponsors";
+import { Speakers } from "../components/speakers";
 
 
 export default function Home() {
@@ -31,6 +32,7 @@ export default function Home() {
     <Feature />
     <SensoryExplain />
     <Days />
+    <Speakers />
     <Sponsors />
     <WhoFor />
     <Sessions />

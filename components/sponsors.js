@@ -4,7 +4,7 @@ import { Image } from "@nextui-org/react";
 
 export const Sponsors = () =>{
   return(
-    <section id="approach" className="">
+    <section id="approach" className="py-12">
       <div>
         <h2 className="text-6xl text-center text-[#3d8672] text-bold uppercase">Thank you</h2>
         <p className="text-3xl text-center text-[#ea8463] uppercase">to our esteemed sponsors</p>

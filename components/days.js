@@ -8,11 +8,11 @@ export const Days = () =>{
       <div>
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="">
-                <h3 className="pl-24 py-5 pr-5 bg-[#e368f3] text-white uppercase text-bold text-xl md:text-4xl w-fit">Day 1</h3>
+                <h3 className="pl-24 py-5 pr-5 bg-[#e368f3] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Day 1</h3>
                 </div>
             <div className="flex flex-col justify-center align-center text-center py-5">
                 <p className="text-4xl text-[#84be7f]">Stepping into</p>
-                <h4 className="text-6xl text-[#3d8672] text-bold">PAUSE</h4>
+                <h4 className="text-6xl text-[#3d8672] text-bold font-[800]">PAUSE</h4>
             </div>
             <div className="flex justify-center"><p className="bg-[#fef5b6] w-fit p-3 rounded-lg">⏰ : 60 to 90<br /> minutes per <br />session</p></div>
         </div>
@@ -62,14 +62,14 @@ export const Days = () =>{
       <div className="py-12">
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="flex justify-between items-center">
-                <h3 className="w-max h-max pl-24 py-5 pr-5 bg-[#ffc618] text-white uppercase text-bold text-xl md:text-4xl w-fit">Day 2</h3>
+                <h3 className="w-max h-max pl-24 py-5 pr-5 bg-[#ffc618] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Day 2</h3>
                 <div className="block md:hidden">
                     <Image className="" src="/ic-hd-r1.png" />
                 </div>
                 </div>
             <div className="flex flex-col justify-center align-center text-center py-5">
                 <p className="text-4xl text-[#ffc618]">Working on</p>
-                <h4 className="text-6xl text-[#ea8463] text-bold">RESET</h4>
+                <h4 className="text-6xl text-[#ea8463] text-bold font-[800]">RESET</h4>
             </div>
             <div className="flex justify-end hidden md:flex">
                 <Image className="" src="/ic-hd-r1.png" />
@@ -92,7 +92,7 @@ export const Days = () =>{
       <div className="py-12">
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="">
-                <h3 className="pl-24 py-5 pr-5 bg-[#3d8672] text-white uppercase text-bold text-xl md:text-4xl w-fit">Morning</h3>
+                <h3 className="pl-24 py-5 pr-5 bg-[#3d8672] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Morning</h3>
                 </div>
         </div>
         <div className="subSectionBody py-5">
@@ -128,7 +128,7 @@ export const Days = () =>{
       <div className="py-12">
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="">
-                <h3 className="pl-24 py-5 pr-5 bg-[#e368f3] text-white uppercase text-bold text-xl md:text-4xl w-fit">Afternoon</h3>
+                <h3 className="pl-24 py-5 pr-5 bg-[#e368f3] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Afternoon</h3>
                 </div>
         </div>
         <div className="subSectionBody py-10">
@@ -160,7 +160,7 @@ export const Days = () =>{
       <div className="py-12">
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="">
-                <h3 className="pl-24 py-5 pr-5 bg-[#ffc618] text-white uppercase text-bold text-xl md:text-4xl w-fit">Evening</h3>
+                <h3 className="pl-24 py-5 pr-5 bg-[#ffc618] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Evening</h3>
                 </div>
         </div>
         <div className="subSectionBody py-10">
@@ -184,7 +184,7 @@ export const Days = () =>{
       <div className="py-12">
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="">
-                <h3 className="pl-24 py-5 pr-5 bg-[#3d8672] text-white uppercase text-bold text-xl md:text-4xl w-fit">Night</h3>
+                <h3 className="pl-24 py-5 pr-5 bg-[#3d8672] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Night</h3>
                 </div>
         </div>
         <div className="subSectionBody py-10">
@@ -206,11 +206,11 @@ export const Days = () =>{
       <div className="py-12">
         <div className="subSectionHead grid grid-cols-1 md:grid-cols-3	items-center justify-between">
             <div className="">
-                <h3 className="pl-24 py-5 pr-5 bg-[#ea8463] text-white uppercase text-bold text-xl md:text-4xl w-fit">Day 3</h3>
+                <h3 className="pl-24 py-5 pr-5 bg-[#ea8463] text-white uppercase text-bold text-xl md:text-4xl w-fit font-[600]">Day 3</h3>
             </div>
             <div className="flex flex-col justify-center align-center text-center py-5">
                 <p className="text-4xl text-[#ea8463]">PLAYING</p>
-                <h4 className="text-6xl text-[#ffc618] text-bold">FIELD</h4>
+                <h4 className="text-6xl text-[#ffc618] text-bold font-[800]">FIELD</h4>
             </div>
         </div>
         <div className="subSectionBody py-10">
