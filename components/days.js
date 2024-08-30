@@ -18,23 +18,23 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/day1_ic1.png" />
                     <p className="text-center">The 44 hour plan</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/day1_icn2.png" />
                     <p className="text-center">Moving & Shaking</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/day1_icn3.png" />
                     <p className="text-center">Lakeside dinner</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/day1_icn4.png" />
                     <p className="text-center">Meaningful movie</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/day1_icn5.png" />
                     <p className="text-center">No-winner games</p>
                 </div>
@@ -77,11 +77,11 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-i1.png" />
                     <p className="text-center">Body Movement</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-i2.png" />
                     <p className="text-center">Ice Plunge</p>
                 </div>
@@ -97,27 +97,27 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-5">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-im1.png" />
                     <p className="text-center text-[#3d8672]">Mapping the future</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-im2.png" />
                     <p className="text-center text-[#3d8672]">Locating one’s purpose</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-im3.png" />
                     <p className="text-center text-[#3d8672]">Building identities</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-im4.png" />
                     <p className="text-center text-[#3d8672]">Growth at work</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-im5.png" />
                     <p className="text-center text-[#3d8672]">Inspiration & Energy Management</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-centerp-3">
                     <Image src="/d2-im6.png" />
                     <p className="text-center text-[#3d8672]">Navigating Doubt, Worry & Fear</p>
                 </div>
@@ -133,23 +133,23 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ia1.png" />
                     <p className="text-center text-[#e368f3]">Life lessons through Family Business</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ia2.png" />
                     <p className="text-center text-[#e368f3]">Getting comfortable with the uncomfortable</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ia3.png" />
                     <p className="text-center text-[#e368f3]">Doubt to Confidence</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ia4.png" />
                     <p className="text-center text-[#e368f3]">Negotiating matters</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ia5.png" />
                     <p className="text-center text-[#e368f3]">Mind as a muscle</p>
                 </div>
@@ -165,15 +165,15 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ie1.png" />
                     <p className="text-center text-[#3d8672]">Open Mic</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ie2.png" />
                     <p className="text-center text-[#3d8672]">Confidence & Collaboration</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-ie3.png" />
                     <p className="text-center text-[#3d8672]">Community</p>
                 </div>
@@ -189,12 +189,12 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-in1.png" />
                     <p className="text-center text-[#3d8672]">Repeat session</p>
                     <p className="text-center text-[#3d8672] italic text-sm">People’s Choice!</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d2-in2.png" />
                     <p className="text-center text-[#3d8672]">Scavenging your senses</p>
                     <p className="text-center text-[#3d8672] italic text-sm">on sign-up basis</p>
@@ -215,15 +215,15 @@ export const Days = () =>{
         </div>
         <div className="subSectionBody py-10">
             <div className="itemGrid flex justify-center flex-wrap p-3 md:w-1/2	md:m-auto">
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d3-i1.png" />
                     <p className="text-center text-[#ea8463]">Ice Plunge</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d3-i2.png" />
                     <p className="text-center text-[#ea8463]">Consolidating your Iraada</p>
                 </div>
-                <div className="basis-1/3 pb-4 flex flex-col items-center">
+                <div className="basis-1/3 pb-4 flex flex-col items-center p-3">
                     <Image src="/d3-i3.png" />
                     <p className="text-center text-[#ea8463]">Micro Actions</p>
                 </div>
