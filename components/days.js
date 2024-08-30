@@ -46,7 +46,7 @@ export const Days = () =>{
             </div>
             <div className="pr-2">
                 <div className="flex gap-2 justify-center items-center pr-5">
-                <Image src="/day1-fb_r1.png" />
+                <div className="p-5 bg-[#ffc618] rounded-full text-3xl">🚐</div>
                 <p> Arranged by JITO</p>
                 </div>
                 <div className="bg-[#3d8672] text-white py-5 px-5 -mt-3">
@@ -235,7 +235,7 @@ export const Days = () =>{
             </div>
             <div className="pr-2">
                 <div className="flex gap-2 justify-center items-center pr-5">
-                <Image src="/day1-fb_r1.png" />
+                <div className="p-5 bg-[#ffc618] rounded-full text-3xl">🚐</div>
                 <p> Arranged by JITO</p>
                 </div>
                 <div className="bg-[#3d8672] text-white py-5 px-5 -mt-3">
