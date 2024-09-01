@@ -32,7 +32,7 @@ Delegate fee is Rs 9,999/-
       <p className="text-left">
       We encourage you to apply early. The venue has a range of facilities and accommodation that comes complimentary with the event pass; the earlier you confirm your seat, the better chance you have at an enhanced accommodation setting (across pool villas, cottages, deluxe and standard rooms) that is complimentary. <br /><br />
 
-Curation is ongoing, and seats are being confirmed in parallel. Incase you have been wait-listed, you should hear from us by 10th August. ☺️
+Curation is ongoing, and seats are being confirmed in parallel. Incase you have been wait-listed, you should hear from us by September 5<sup>th</sup>. ☺️
 
       </p>
       </AccordionItem>
